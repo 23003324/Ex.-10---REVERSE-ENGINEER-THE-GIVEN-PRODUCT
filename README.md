@@ -38,8 +38,8 @@
 ![Screenshot 2024-05-01 222132](https://github.com/23003324/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/140035234/99ec38f8-c37e-401e-978f-2e33274144a5)
 
 
-### Name:
-### Register Number:
+### Name:HARITHA RAMESH
+### Register Number: 212223100011
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
